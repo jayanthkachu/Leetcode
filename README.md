@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/jayanthkachu/Leetcode/tree/master/0890-lemonade-change) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/jayanthkachu/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
