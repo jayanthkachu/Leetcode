@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jayanthkachu/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0890-lemonade-change](https://github.com/jayanthkachu/Leetcode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/jayanthkachu/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jayanthkachu/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,15 +60,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/jayanthkachu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/jayanthkachu/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
