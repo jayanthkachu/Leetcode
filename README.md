@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jayanthkachu/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/jayanthkachu/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
